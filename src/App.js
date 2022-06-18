@@ -1,6 +1,6 @@
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Link,
   Routes
@@ -8,6 +8,7 @@ import {
 import Homepage from './homepage/Homepage';
 import Character from './character/Character';
 import './App.css';
+import HomeIcon from '@mui/icons-material/Home';
 function App() {
   
   
@@ -18,7 +19,9 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/" className="homelink">
+                <HomeIcon></HomeIcon>
+              </Link>
             </li>
           </ul>
         </nav>

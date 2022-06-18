@@ -1,3 +1,45 @@
-datalist{
-    display: block;
+.autocomplete {
+    width: 300px;
+    position: relative;
+}
+.autocomplete input{
+    width: 100%;
+    padding: 5px;
+}
+.options{
+    position: absolute;
+    display: none;
+    background: white;
+    flex-direction: column;
+    text-align: start;
+    padding-left: 5px;
+    padding-top: 5px;
+    width: 100%;
+}
+.option{
+    text-decoration: none;
+    color:red
+}
+.option:hover{
+    background: rgb(60, 60, 60, 0.5);
+}
+.char-list-wrap{
+    padding: 10px;
+}
+.char-list{
+    
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap:30px;
+}
+.char-text{
+    display: flex;
+    gap:20px;
+}
+.char-link{
+    text-decoration: none;
+    color:black;
+    min-width: fit-content;
+    box-shadow: 1px 1px 4px black;
 }
