@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PerceptionBoxTZ/static/css/main.14db6f5b.css",
-    "main.js": "/PerceptionBoxTZ/static/js/main.2059fbf9.js",
+    "main.css": "/PerceptionBoxTZ/static/css/main.73b4f32e.css",
+    "main.js": "/PerceptionBoxTZ/static/js/main.ba9b811d.js",
     "static/js/787.77cbfdeb.chunk.js": "/PerceptionBoxTZ/static/js/787.77cbfdeb.chunk.js",
     "index.html": "/PerceptionBoxTZ/index.html",
-    "main.14db6f5b.css.map": "/PerceptionBoxTZ/static/css/main.14db6f5b.css.map",
-    "main.2059fbf9.js.map": "/PerceptionBoxTZ/static/js/main.2059fbf9.js.map",
+    "main.73b4f32e.css.map": "/PerceptionBoxTZ/static/css/main.73b4f32e.css.map",
+    "main.ba9b811d.js.map": "/PerceptionBoxTZ/static/js/main.ba9b811d.js.map",
     "787.77cbfdeb.chunk.js.map": "/PerceptionBoxTZ/static/js/787.77cbfdeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14db6f5b.css",
-    "static/js/main.2059fbf9.js"
+    "static/css/main.73b4f32e.css",
+    "static/js/main.ba9b811d.js"
   ]
 }
